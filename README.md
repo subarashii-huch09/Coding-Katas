@@ -1,0 +1,1 @@
+This repo is a 筆記，記錄在codewars/kata/leetcode 與其他刷題網站上練習的程式碼
